@@ -6,3 +6,7 @@
 ###### Nalasopara is in Mumbai
 
 ![Image of Yacktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` python
+print("Hello, world!")
+```
