@@ -10,3 +10,7 @@
 ``` python
 print("Hello, world!")
 ```
+
+- [x] Wake up
+- [x] Go to school
+- [ ] Sleep
